@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!--短信验证码输入框-->
+<EditText xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/verification_edit_bg_normal"
+    android:gravity="center_horizontal"
+    android:maxLength="1"
+    android:paddingBottom="4dp"
+    android:textColor="@color/level_one_text_color"
+    android:textCursorDrawable="@drawable/color_cursor"
+    android:textSize="30sp"
+    tools:text="6" />
